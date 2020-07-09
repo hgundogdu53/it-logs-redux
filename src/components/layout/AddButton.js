@@ -1,6 +1,6 @@
 import React from "react";
 
-const AddBtn = () => {
+const AddButton = () => {
   return (
     <div className="fixed-action-btn">
       <a
@@ -28,4 +28,4 @@ const AddBtn = () => {
   );
 };
 
-export default AddBtn;
+export default AddButton;
